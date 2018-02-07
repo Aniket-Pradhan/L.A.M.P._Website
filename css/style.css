@@ -959,7 +959,9 @@ h3.tittle.two{
 	color:#fff;
 }
 .caption_story_w3ls {
-    float: right;
+	float: left;
+	margin-left: 75px;
+	text-align: center;
     width: 57%;
 }
 .story-img img {
