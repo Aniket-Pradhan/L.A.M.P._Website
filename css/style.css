@@ -617,7 +617,7 @@ b.fa.fa-caret-right {
 /*-- banner-top --*/
 
 .banner-top {
-	background: url(../images/banner1.jpg) no-repeat 0px 0px;
+	background: url(../images/back.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -627,7 +627,7 @@ b.fa.fa-caret-right {
 }
 
 .banner-top1 {
-	background: url(../images/banner2.jpg) no-repeat 0px 0px;
+	background: url(../images/back1.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -637,7 +637,7 @@ b.fa.fa-caret-right {
 }
 
 .banner-top2 {
-	background: url(../images/banner3.jpg) no-repeat 0px 0px;
+	background: url(../images/back2.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -647,7 +647,7 @@ b.fa.fa-caret-right {
 }
 
 .banner-top3 {
-	background: url(../images/banner4.jpg) no-repeat 0px 0px;
+	background: url(../images/back3.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -958,7 +958,7 @@ h3.tittle.ser {
 }
 /*-- //banner_bottom --*/
 .history{
-    background: url(../images/banner3.jpg) no-repeat 0px 0px;
+    background: url(../images/backky.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1088,7 +1088,7 @@ h3.tittle.two{
     background: #eeeeef;
 }
 .testimonials {
-    background: url(../images/banner1.jpg) no-repeat 0px 0px;
+    background: url(../images/back.png) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
