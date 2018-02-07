@@ -662,6 +662,18 @@ b.fa.fa-caret-right {
 	width: 80%;
 }
 
+#future {
+	text-align: center;
+	width: 100%;10
+	height: 500px;
+}
+
+#prob {
+	text-align: center;
+	width: 100%;
+	height: 500px;
+}
+
 .banner-info_agileits_w3ls a {
 	color: #fff;
 	text-decoration: none;
